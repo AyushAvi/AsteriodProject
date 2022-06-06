@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AsteriodProject/static/css/main.0ebb77a1.css",
+    "main.js": "/AsteriodProject/static/js/main.029fdb83.js",
+    "static/media/444259-space-space_art-asteroids-asteroid.jpeg": "/AsteriodProject/static/media/444259-space-space_art-asteroids-asteroid.b0c192ef91c7cd726913.jpeg",
+    "index.html": "/AsteriodProject/index.html",
+    "main.0ebb77a1.css.map": "/AsteriodProject/static/css/main.0ebb77a1.css.map",
+    "main.029fdb83.js.map": "/AsteriodProject/static/js/main.029fdb83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebb77a1.css",
+    "static/js/main.029fdb83.js"
+  ]
+}
